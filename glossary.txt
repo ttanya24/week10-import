@@ -4,9 +4,11 @@ Then add your name and GitHub username on the last line.
 
 Import:
   Your definition:
+  Brought an existing repository and its commit history into a new repository on my GitHub account.
 
 Clone:
   Your definition:
+  Download a copy of a repository, including its commit history, to your computer so you can work on it locally.
 
 Fork:
   Your definition:
@@ -23,4 +25,4 @@ Merge:
 Upstream tracking (git push -u):
   Your definition:
 
-Completed by:
+Completed by:Tanya
